@@ -1,0 +1,30 @@
+body {
+    background-size: cover;
+}
+
+.heading1{
+    font-size: 40px;
+    background-color: darkmagenta;
+    
+    width: 100%;
+    margin-top: 0px;
+    color:rgb(4, 255, 4);
+}
+
+a {
+    width: 300x;
+    border: solid 2px;
+    border-color: rgb(179, 90, 90);
+    border-radius: 5px;
+    font-weight: 500;
+    color: rgb(0, 200, 255);
+    background-color: rgb(15, 5, 17);
+    font-style: italic;
+    font-size: 35;
+}
+
+canvas {
+    margin-top: 40px;
+    box-shadow: 20px 20px 500px rgba(255, 193, 123, 0.993);
+    border-radius: 75px;
+}
